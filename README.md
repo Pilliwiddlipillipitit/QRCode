@@ -1,3 +1,8 @@
+Modifications by Pillliwiddli
+======
+- added function to get the mode for a string
+
+
 QRCode
 ======
 
